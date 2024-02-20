@@ -13,3 +13,35 @@
  *= require_tree .
  *= require_self
  */
+
+/* .a-no-underline {
+  text-decoration: none;
+} */
+
+h1 {
+  font-weight: bold;
+  color: white;
+}
+
+ul a {
+  text-decoration: none;
+  color: #737B83;
+  font-size: 1.5em;
+  margin: 10px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: white;
+  font-size: 1.5em;
+  margin: 10px;
+  font-weight: bold;
+}
+
+h4 {
+  color: #737b83;
+}
+
+li {
+  list-style-type: none
+}
